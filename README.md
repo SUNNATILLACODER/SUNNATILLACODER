@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=030712%2C0f172a%2C1e3a8a%2C0284c7%2C00f5a0&height=220&section=header&text=Sunnatilla+Sharipov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack+%26+Frontend+Engineer+%7C+React+%E2%80%A2+TypeScript+%E2%80%A2+FastAPI+%E2%80%A2+Django&descAlignY=58&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=030712%2C0f172a%2C1e3a8a%2C0284c7%2C00f5a0&height=220&section=header&text=Sunnatilla+Sharipov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack+%2F+Frontend+Engineer+%7C+React+%E2%80%A2+TypeScript+%E2%80%A2+FastAPI+%E2%80%A2+Django&descAlignY=58&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Fullstack+%26+Frontend+Engineer;React+%2F+Next.js+%2F+TypeScript+%2F+Tailwind;Python+%2F+FastAPI+%2F+Django+%2F+PostgreSQL;Building+Scalable+APIs+%26+Modern+Web+Apps;Open+for+Fullstack+%26+Frontend+Opportunities!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Fullstack+%2F+Frontend+Engineer;React+%2F+Next.js+%2F+TypeScript+%2F+Tailwind;Python+%2F+FastAPI+%2F+Django+%2F+PostgreSQL;Building+Scalable+APIs+%26+Modern+Web+Apps;Open+for+Fullstack+%26+Frontend+Opportunities!)](https://git.io/typing-svg)
 
   <p align="center">
     <a href="https://portfolio-job-flax.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Portfolio-00F5A0?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>

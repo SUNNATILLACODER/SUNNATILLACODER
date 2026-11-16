@@ -1,67 +1,70 @@
 <div align="center">
-  <!-- Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16213e,100:1f6feb&height=220&section=header&text=Sunnatilla%20Sharipov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20%2F%20Frontend%20Engineer%20%7C%20React%20%E2%80%A2%20TypeScript%20%E2%80%A2%20FastAPI%20%E2%80%A2%20Django&descAlignY=58&descAlign=50" width="100%"/>
 
-  <!-- Live Profile Views Counter -->
+  <!-- Header Banner (Deterministic Deep Navy & Blue) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16213e,100:1f6feb&height=220&section=header&text=Sunnatilla%20Sharipov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Fullstack%20%26%20Distributed%20Systems%20Architecture&descAlignY=58&descAlign=50" width="100%"/>
+
+  <!-- Developer Status & Live Badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=SUNNATILLACODER&label=Profile%20Views&color=1f6feb&style=flat-square" alt="Profile Views"/>
-    <a href="https://portfolio-job-flax.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Portfolio-00F5A0?style=flat-square&logo=vercel&logoColor=black" alt="Portfolio"/></a>
-    <a href="https://t.me/war1pov_developer" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
-    <a href="https://www.linkedin.com/in/sunnatilla-sharipov-aa070a3b9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:sunnatillasharipov6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://portfolio-job-flax.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Production_Portfolio-00F5A0?style=flat-square&logo=vercel&logoColor=black" alt="Portfolio"/></a>
+    <a href="https://t.me/war1pov_developer" target="_blank"><img src="https://img.shields.io/badge/Telegram-@war1pov__developer-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
+    <a href="https://www.linkedin.com/in/sunnatilla-sharipov-aa070a3b9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sunnatilla_Sharipov-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:sunnatillasharipov6@gmail.com"><img src="https://img.shields.io/badge/Email-sunnatillasharipov6@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 
   <!-- Animated Typing SVG -->
   <a href="https://portfolio-job-flax.vercel.app" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Fullstack+%2F+Frontend+Engineer;React+%2F+Next.js+%2F+TypeScript+%2F+Tailwind;Python+%2F+FastAPI+%2F+Django+%2F+PostgreSQL;Building+Scalable+APIs+%26+Modern+Web+Apps;Open+for+Fullstack+%26+Frontend+Opportunities!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Fullstack+%2F+Frontend+Software+Engineer;React+%2F+TypeScript+%2F+Next.js+%2F+Tailwind+CSS;Python+%2F+FastAPI+%2F+Django+%2F+PostgreSQL+%2F+Docker;Architecting+High-Throughput+APIs+%26+3D+Web+Experiences;Available+for+Fullstack+%26+Frontend+Opportunities!" alt="Typing SVG" />
   </a>
+
 </div>
 
 ---
 
-### 👨‍💻 Engineering Blueprint
+### 💻 Developer Blueprint & Architecture Focus
 
 ```typescript
-const engineer = {
-  name: "Sunnatilla Sharipov",
-  role: "Fullstack / Frontend Engineer",
-  location: "Tashkent, Uzbekistan 🇺🇿",
-  education: "PDP University (Software Engineering)",
-  coreStack: [
-    "Frontend: React, Next.js, TypeScript, Tailwind CSS, Three.js (WebGL)",
-    "Backend: Python (FastAPI, Django), PostgreSQL, MySQL, Redis, Docker"
-  ],
-  focus: "Architecting high-throughput APIs, modern interactive 3D UIs, and robust microservices",
-  availability: "Open for Fullstack & Frontend Engineering roles 🚀"
-};
+interface SoftwareEngineer {
+  name: "Sunnatilla Sharipov";
+  location: "Tashkent, Uzbekistan 🇺🇿";
+  education: "PDP University (Software Engineering)";
+  roles: ["Fullstack Engineer", "Frontend Specialist", "API Architect"];
+  coreCapabilities: [
+    "High-Performance Frontend Systems (React 19, Next.js, Three.js 3D WebGL, Vite)",
+    "Asynchronous Backend Microservices (FastAPI, Django, PostgreSQL Async, Docker)",
+    "Distributed Data Pipelines, Lead Automation & Telegram Bot Infrastructure"
+  ];
+  availability: "Open to Full-Time Engineering Roles & Contracts 🚀";
+}
 ```
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### 🛠️ Technical Stack & Toolchain
 
 <div align="center">
+  <!-- SkillIcons Vector Dock -->
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs,vite,python,fastapi,django,postgres,mysql,docker,git,github,postman,linux&theme=dark" alt="SkillIcons Dock" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs,vite,python,fastapi,django,postgres,mysql,docker,git,github,postman,linux&theme=dark" alt="Technical Stack Dock" />
     </a>
   </p>
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+<div align="center">
+
+| Layer | Technologies & Frameworks |
+| :--- | :--- |
+| **Frontend Core & 3D** | `React 19`, `Next.js`, `TypeScript`, `JavaScript (ES6+)`, `Tailwind CSS`, `Three.js (WebGL)`, `Vite`, `HTML5 / CSS3` |
+| **Backend & Microservices** | `Python 3.11+`, `FastAPI`, `Django 5`, `Django REST Framework`, `Node.js`, `SQLAlchemy 2.0 (Async)`, `Aiogram 3` |
+| **Databases & Cache** | `PostgreSQL (asyncpg)`, `MySQL`, `SQLite`, `Redis`, `Alembic Migrations` |
+| **DevOps & Architecture** | `Docker`, `Docker Compose`, `Git`, `Linux (Ubuntu/Debian)`, `Playwright`, `Postman`, `Vercel CI/CD` |
+
+</div>
 
 ---
 
-### 🌟 Featured Repositories & Live Showcase
+### 🚀 Production Repositories & Engineering Artifacts
 
 <div align="center">
   <table>
@@ -73,7 +76,7 @@ const engineer = {
       </td>
       <td>
         <a href="https://github.com/SUNNATILLACODER/Hotel">
-          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SUNNATILLACODER&repo=Hotel&theme=tokyonight&bg_color=0d1117&border_color=1f6feb" alt="Hotel Card"/>
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SUNNATILLACODER&repo=Hotel&theme=tokyonight&bg_color=0d1117&border_color=1f6feb" alt="HotelOS Card"/>
         </a>
       </td>
     </tr>
@@ -85,19 +88,19 @@ const engineer = {
       </td>
       <td>
         <a href="https://github.com/SUNNATILLACODER/Japan-Site-Backend">
-          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SUNNATILLACODER&repo=Japan-Site-Backend&theme=tokyonight&bg_color=0d1117&border_color=1f6feb" alt="Japan-Site-Backend Card"/>
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SUNNATILLACODER&repo=Japan-Site-Backend&theme=tokyonight&bg_color=0d1117&border_color=1f6feb" alt="Japan Web Backend Card"/>
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/SUNNATILLACODER/Abacus_school_bot">
-          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SUNNATILLACODER&repo=Abacus_school_bot&theme=tokyonight&bg_color=0d1117&border_color=1f6feb" alt="Abacus_school_bot Card"/>
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SUNNATILLACODER&repo=Abacus_school_bot&theme=tokyonight&bg_color=0d1117&border_color=1f6feb" alt="Abacus School Bot Card"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/SUNNATILLACODER/Malika_Sklad">
-          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SUNNATILLACODER&repo=Malika_Sklad&theme=tokyonight&bg_color=0d1117&border_color=1f6feb" alt="Malika_Sklad Card"/>
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SUNNATILLACODER&repo=Malika_Sklad&theme=tokyonight&bg_color=0d1117&border_color=1f6feb" alt="Malika Sklad Card"/>
         </a>
       </td>
     </tr>
@@ -106,30 +109,30 @@ const engineer = {
 
 ---
 
-### 📊 Contribution Activity & Dynamics
+### 📊 Engineering Metrics & Contribution Dynamics
 
 <div align="center">
-  <!-- Dynamic Activity Waveform Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUNNATILLACODER&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" width="100%" alt="Contribution Graph" />
+  <!-- Dynamic Contribution Waveform Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUNNATILLACODER&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" width="100%" alt="Contribution Dynamics" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- GitHub Streak Card -->
-  <img src="https://streak-stats.demolab.com/?user=SUNNATILLACODER&theme=tokyonight&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=1f6feb&currStreakNum=58a6ff" height="175" alt="Streak Stats" />
+  <!-- Official Demolab Streak Analytics -->
+  <img src="https://streak-stats.demolab.com/?user=SUNNATILLACODER&theme=tokyonight&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=1f6feb&currStreakNum=58a6ff" height="175" alt="GitHub Streak Tracker" />
 </div>
 
 ---
 
-### 📬 Connect With Me
+### 📬 Get In Touch & Collaboration
 
 <div align="center">
   <p align="center">
-    <b>Let's build something extraordinary together!</b> Feel free to reach out directly:
+    <b>I am always excited to discuss software engineering, distributed systems, and cutting-edge frontend architecture.</b>
   </p>
   <a href="https://portfolio-job-flax.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Official_Portfolio-portfolio--job--flax.vercel.app-00F5A0?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Production_Portfolio-portfolio--job--flax.vercel.app-00F5A0?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
   </a>
   &nbsp;
   <a href="https://t.me/war1pov_developer" target="_blank">

@@ -3,7 +3,7 @@
   <!-- Neo-Cyberpunk Obsidian to Emerald & Cyan Wave Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080a0a,40:0d2538,80:0284c7,100:00f5a0&height=220&section=header&text=Sunnatilla%20Sharipov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20%2F%20Frontend%20Software%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
 
-  <!-- Terminal Status Pill Navigation -->
+  <!-- Action Badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=SUNNATILLACODER&label=Profile%20Views&color=00f5a0&style=flat-square" alt="Profile Views"/>
     &nbsp;
@@ -18,7 +18,7 @@
 
   <!-- Animated Neon Typing SVG -->
   <a href="https://portfolio-job-flax.vercel.app" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5A0&center=true&vCenter=true&width=650&lines=Fullstack+%2F+Frontend+Software+Engineer;React+19+%2F+TypeScript+%2F+Next.js+%2F+Tailwind+CSS;Python+%2F+FastAPI+%2F+Django+%2F+PostgreSQL+%2F+Docker;Engineering+Scalable+APIs+%26+3D+WebGL+Experiences;Available+for+Fullstack+%26+Frontend+Opportunities!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5A0&center=true&vCenter=true&width=650&lines=Fullstack+%2F+Frontend+Software+Engineer;React+19+%2F+TypeScript+%2F+Next.js+%2F+Tailwind+CSS;Python+%2F+FastAPI+%2F+Django+%2F+PostgreSQL+%2F+Docker;Architecting+High-Throughput+APIs+%26+3D+WebGL+Experiences;Available+for+Fullstack+%26+Frontend+Opportunities!" alt="Typing SVG" />
   </a>
 
 </div>
@@ -37,7 +37,6 @@ sunnatilla@cyber-node:~$ cat /etc/system_profile.json
   "education": "PDP University (Software Engineering)",
   "frontend_core": ["React 19", "Next.js", "TypeScript", "Tailwind CSS", "Three.js (3D WebGL)"],
   "backend_engine": ["Python 3.11+", "FastAPI", "Django 5", "PostgreSQL", "Docker Compose"],
-  "focus": "Architecting resilient microservices, high-throughput APIs & 3D UI experiences",
   "status": "Actively seeking Fullstack & Frontend Engineering roles 🚀"
 }
 ```
@@ -56,39 +55,21 @@ sunnatilla@cyber-node:~$ cat /etc/system_profile.json
 
 | Domain | Core Stack & Frameworks |
 | :--- | :--- |
-| 🌐 **Frontend Core & 3D** | `React 19`, `Next.js`, `TypeScript`, `JavaScript (ES6+)`, `Tailwind CSS`, `Three.js (WebGL)`, `Vite`, `HTML5 / CSS3` |
-| ⚙️ **Backend & Architecture** | `Python 3.11+`, `FastAPI`, `Django 5`, `Django REST Framework`, `Node.js`, `SQLAlchemy 2.0 (Async)`, `Aiogram 3` |
-| 🗄️ **Databases & Cache** | `PostgreSQL (asyncpg)`, `MySQL`, `SQLite`, `Redis`, `Alembic Migrations` |
-| 🐳 **DevOps & Infrastructure** | `Docker`, `Docker Compose`, `Git`, `GitHub`, `Linux (Ubuntu)`, `Playwright`, `Postman`, `Vercel CI/CD` |
+| 🌐 **Frontend Core & 3D** | `React 19` · `Next.js` · `TypeScript` · `JavaScript (ES6+)` · `Tailwind CSS` · `Three.js` · `Vite` |
+| ⚙️ **Backend & Architecture** | `Python 3.11+` · `FastAPI` · `Django 5` · `Django REST Framework` · `Node.js` · `SQLAlchemy 2.0` · `Aiogram 3` |
+| 🗄️ **Databases & Cache** | `PostgreSQL (asyncpg)` · `MySQL` · `SQLite` · `Redis` · `Alembic Migrations` |
+| 🐳 **DevOps & Infrastructure** | `Docker` · `Docker Compose` · `Git` · `GitHub` · `Linux (Ubuntu)` · `Playwright` · `Postman` · `Vercel` |
 
 ---
 
-### 🌟 Featured Systems & Production Works
+### 🌟 Featured Projects
 
-#### 🏨 [HotelOS — Enterprise Hospitality Platform](https://github.com/SUNNATILLACODER/Hotel)
-> **Technologies:** `TypeScript` • `Node.js` • `Docker Compose` • `Microservices` • `RESTful API`  
-> **Summary:** Enterprise-grade real-time hotel administration, reservation, and room management ecosystem engineered with modern microservice design and containerized deployment.
-
-#### ⚡ [NextGen CRM Engine](https://github.com/SUNNATILLACODER/CRM)
-> **Technologies:** `FastAPI` • `PostgreSQL (asyncpg)` • `SQLAlchemy 2.0` • `Playwright` • `Docker`  
-> **Summary:** High-throughput asynchronous CRM with automated headless lead scraping pipelines (Playwright), non-blocking database pooling, and comprehensive SQLAdmin control panels.
-
-#### 🌐 [Official Engineering Portfolio & 3D Cyber City](https://github.com/SUNNATILLACODER/Portfolio-job)
-> **Technologies:** `React 19` • `Three.js (3D WebGL)` • `Vite` • `Tailwind CSS` • `i18n` • `SEO`  
-> **Summary:** Production web engineering portfolio featuring real-time 3D floating cyber city rendering, interactive modal dialogs, responsive mobile design, and multi-language routing.  
-> 👉 **[Explore Live Demo ↗](https://portfolio-job-flax.vercel.app)**
-
-#### ⛩️ [Japan Web Platform API](https://github.com/SUNNATILLACODER/Japan-Site-Backend)
-> **Technologies:** `Django 5` • `Django REST Framework` • `Swagger OpenAPI` • `Aiogram 3` • `MySQL`  
-> **Summary:** Scalable cultural and educational web service featuring multi-language i18n database models, interactive Swagger documentation, and integrated Aiogram 3 Telegram notifications.
-
-#### 🧮 [Abacus School Automation Bot](https://github.com/SUNNATILLACODER/Abacus_school_bot)
-> **Technologies:** `Python` • `Aiogram` • `python-docx` • `unoconv PDF Engine` • `FSM`  
-> **Summary:** Comprehensive educational center management Telegram bot with on-the-fly student certificate compilation and automated dynamic document generation.
-
-#### 📦 [Malika Sklad Inventory System](https://github.com/SUNNATILLACODER/Malika_Sklad)
-> **Technologies:** `Python` • `Django` • `Aiogram` • `PostgreSQL` • `Real-time Tracking`  
-> **Summary:** Warehouse management solution bridging web administrative controls with on-the-ground mobile Telegram operations for instant stock logging and low-inventory alerts.
+- 🏨 **[HotelOS — Hotel Management System](https://github.com/SUNNATILLACODER/Hotel)**
+- ⚡ **[CRM Engine](https://github.com/SUNNATILLACODER/CRM)**
+- 🌐 **[Official Portfolio & 3D Cyber City](https://github.com/SUNNATILLACODER/Portfolio-job)** &nbsp;•&nbsp; [Live Demo ↗](https://portfolio-job-flax.vercel.app)
+- ⛩️ **[Japan Web Platform API](https://github.com/SUNNATILLACODER/Japan-Site-Backend)**
+- 🧮 **[Abacus School Automation Bot](https://github.com/SUNNATILLACODER/Abacus_school_bot)**
+- 📦 **[Malika Sklad Inventory System](https://github.com/SUNNATILLACODER/Malika_Sklad)**
 
 ---
 

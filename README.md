@@ -162,21 +162,20 @@ const developer = {
 
 ### 📬 Connect With Me
 
-<div align="center">
-  <p align="center">
-    <b>Let's build something extraordinary together!</b> Feel free to reach out directly:
-  </p>
+<p align="center">
   <a href="https://portfolio-job-flax.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Official_Portfolio-portfolio--job--flax.vercel.app-00F5A0?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Live_Portfolio-00F5A0?style=flat-square&logo=vercel&logoColor=black" alt="Portfolio"/>
   </a>
   &nbsp;
   <a href="https://t.me/war1pov_developer" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@war1pov__developer-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-@war1pov__developer-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sunnatilla-sharipov-aa070a3b9" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sunnatilla_Sharipov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Sunnatilla_Sharipov-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:16213e,100:0d1117&height=120&section=footer" width="100%"/>
-</div>
+  &nbsp;
+  <a href="mailto:sunnatillasharipov6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sunnatillasharipov6@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>

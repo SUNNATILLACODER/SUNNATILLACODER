@@ -1,49 +1,51 @@
 <div align="center">
-  <!-- Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16213e,100:1f6feb&height=220&section=header&text=Sunnatilla%20Sharipov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20%2F%20Frontend%20Engineer%20%7C%20React%20%E2%80%A2%20TypeScript%20%E2%80%A2%20FastAPI%20%E2%80%A2%20Django&descAlignY=58&descAlign=50" width="100%"/>
 
-  <!-- Animated Typing SVG -->
-  <a href="https://portfolio-job-flax.vercel.app" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Fullstack+%2F+Frontend+Software+Engineer;React+%2F+TypeScript+%2F+Next.js+%2F+Tailwind+CSS;Python+%2F+FastAPI+%2F+Django+%2F+PostgreSQL+%2F+Docker;Architecting+High-Throughput+APIs+%26+3D+Web+Experiences;Available+for+Fullstack+%26+Frontend+Opportunities!" alt="Typing SVG" />
-  </a>
+  <!-- Hero Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16213e,100:1f6feb&height=220&section=header&text=Sunnatilla%20Sharipov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20%2F%20Frontend%20Software%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
 
-  <!-- 5 Clean Proportional Badges -->
+  <!-- Live Metric & Quick Connect -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=SUNNATILLACODER&label=Profile%20Views&color=1f6feb&style=flat-square" alt="Profile Views"/>
     &nbsp;
-    <a href="https://portfolio-job-flax.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00F5A0?style=flat-square&logo=vercel&logoColor=black" alt="Portfolio"/></a>
+    <a href="https://portfolio-job-flax.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live%20Demo-00F5A0?style=flat-square&logo=vercel&logoColor=black" alt="Portfolio"/></a>
     &nbsp;
-    <a href="https://t.me/war1pov_developer" target="_blank"><img src="https://img.shields.io/badge/Telegram-Connect-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
+    <a href="https://t.me/war1pov_developer" target="_blank"><img src="https://img.shields.io/badge/Telegram-@war1pov__developer-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
     &nbsp;
-    <a href="https://www.linkedin.com/in/sunnatilla-sharipov-aa070a3b9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/sunnatilla-sharipov-aa070a3b9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sunnatilla%20Sharipov-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     &nbsp;
-    <a href="mailto:sunnatillasharipov6@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="mailto:sunnatillasharipov6@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
+
+  <!-- Dynamic Typing Presentation -->
+  <a href="https://portfolio-job-flax.vercel.app" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Fullstack+%2F+Frontend+Software+Engineer;React+19+%2F+TypeScript+%2F+Next.js+%2F+Tailwind+CSS;Python+%2F+FastAPI+%2F+Django+%2F+PostgreSQL+%2F+Docker;Engineering+Scalable+APIs+%26+Interactive+3D+Web+Systems;Available+for+Fullstack+%26+Frontend+Roles!" alt="Typing SVG" />
+  </a>
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me & Engineering Philosophy
 
 ```typescript
 const developer = {
   name: "Sunnatilla Sharipov",
-  role: "Fullstack / Frontend Engineer",
+  title: "Fullstack / Frontend Software Engineer",
   location: "Tashkent, Uzbekistan 🇺🇿",
   education: "PDP University (Software Engineering)",
-  stack: {
-    frontend: ["React 19", "Next.js", "TypeScript", "Tailwind CSS", "Three.js (3D WebGL)"],
-    backend: ["Python (FastAPI, Django)", "Node.js", "PostgreSQL", "MySQL", "Redis"],
-    devops: ["Docker", "Docker Compose", "CI/CD", "Linux", "Git"]
-  },
-  mission: "Engineering high-performance, aesthetically refined web apps & resilient microservices",
-  availability: "Available for Hire 🚀"
+  specialties: [
+    "High-Performance Web Applications (React 19, TypeScript, Next.js, Vite)",
+    "Creative 3D Interactivity & Graphics (Three.js WebGL, Tailwind CSS)",
+    "Scalable Asynchronous Backends & APIs (FastAPI, Django, PostgreSQL, Docker)",
+    "Automation Pipelines, System Integrations & Telegram Bot Ecosystems"
+  ],
+  status: "Actively interviewing for Engineering opportunities 🚀"
 };
 ```
 
 ---
 
-### 🛠️ Tech Stack & Architecture
+### 🛠️ Technical Stack & Toolchain
 
 <div align="center">
   <p>
@@ -53,125 +55,60 @@ const developer = {
   </p>
 </div>
 
-| Layer | Core Technologies |
+| Domain | Core Stack & Frameworks |
 | :--- | :--- |
-| **Frontend Core & 3D** | `React 19` · `Next.js` · `TypeScript` · `JavaScript (ES6+)` · `Tailwind CSS` · `Three.js` · `Vite` |
-| **Backend & Microservices**| `Python 3.11+` · `FastAPI` · `Django 5` · `Django REST Framework` · `Node.js` · `SQLAlchemy 2.0` · `Aiogram 3` |
-| **Databases & Cache** | `PostgreSQL (asyncpg)` · `MySQL` · `SQLite` · `Redis` · `Alembic Migrations` |
-| **DevOps & Tooling** | `Docker` · `Docker Compose` · `Git` · `GitHub` · `Linux` · `Playwright` · `Postman` · `Vercel` |
+| 🌐 **Frontend Core & 3D** | `React 19`, `Next.js`, `TypeScript`, `JavaScript (ES6+)`, `Tailwind CSS`, `Three.js (WebGL)`, `Vite`, `HTML5 / CSS3` |
+| ⚙️ **Backend & Architecture** | `Python 3.11+`, `FastAPI`, `Django 5`, `Django REST Framework`, `Node.js`, `SQLAlchemy 2.0 (Async)`, `Aiogram 3` |
+| 🗄️ **Databases & Cache** | `PostgreSQL (asyncpg)`, `MySQL`, `SQLite`, `Redis`, `Alembic Migrations` |
+| 🐳 **DevOps & Tooling** | `Docker`, `Docker Compose`, `Git`, `GitHub`, `Linux (Ubuntu)`, `Playwright`, `Postman`, `Vercel CI/CD` |
 
 ---
 
-### 🌟 Featured Projects Showcase
+### 🌟 Featured Systems & Production Works
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💼 Official Engineering Portfolio</h3>
-      <p align="center">
-        <b>Tech:</b> React 19 • Vite • Tailwind CSS • Three.js 3D WebGL • SEO
-      </p>
-      <p align="center">
-        Production frontend portfolio showcasing interactive UI, SEO optimization, and live Three.js 3D WebGL city rendering.
-      </p>
-      <p align="center">
-        <a href="https://portfolio-job-flax.vercel.app"><b>🌐 Live Demo</b></a> &nbsp;|&nbsp; 
-        <a href="https://github.com/SUNNATILLACODER/Portfolio-job"><b>💻 Repository</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏨 HotelOS Management System</h3>
-      <p align="center">
-        <b>Tech:</b> TypeScript • Node.js • Docker • Microservices • REST API
-      </p>
-      <p align="center">
-        Enterprise-grade real-time hotel administration, reservation, and room management ecosystem engineered with modern microservice design.
-      </p>
-      <p align="center">
-        <a href="https://github.com/SUNNATILLACODER/Hotel"><b>💻 Repository</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ NextGen CRM Engine</h3>
-      <p align="center">
-        <b>Tech:</b> FastAPI • PostgreSQL Async • SQLAlchemy 2.0 • Playwright • Docker
-      </p>
-      <p align="center">
-        High-throughput asynchronous CRM with automated lead scraping pipeline (Playwright), non-blocking database queries (asyncpg), and SQLAdmin dashboard.
-      </p>
-      <p align="center">
-        <a href="https://github.com/SUNNATILLACODER/CRM"><b>💻 Repository</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⛩️ Japan Web Platform API</h3>
-      <p align="center">
-        <b>Tech:</b> Django 5 • Django REST Framework • Swagger OpenAPI • Aiogram 3 • MySQL
-      </p>
-      <p align="center">
-        Scalable cultural and educational web service featuring multi-language i18n database models, interactive Swagger docs, and an automated Aiogram 3 Telegram bot.
-      </p>
-      <p align="center">
-        <a href="https://github.com/SUNNATILLACODER/Japan-Site-Backend"><b>💻 Repository</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧮 Abacus School Automation Bot</h3>
-      <p align="center">
-        <b>Tech:</b> Python • Aiogram • python-docx • unoconv PDF Engine • FSM
-      </p>
-      <p align="center">
-        Comprehensive educational center management Telegram bot with on-the-fly student certificate compilation and automated dynamic document generation.
-      </p>
-      <p align="center">
-        <a href="https://github.com/SUNNATILLACODER/Abacus_school_bot"><b>💻 Repository</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📦 Malika Sklad Inventory System</h3>
-      <p align="center">
-        <b>Tech:</b> Python • Django • Aiogram • PostgreSQL • Real-time Tracking
-      </p>
-      <p align="center">
-        Warehouse management solution integrating web inventory cataloging with mobile Telegram bot operations for instant stock logging and low-inventory alerts.
-      </p>
-      <p align="center">
-        <a href="https://github.com/SUNNATILLACODER/Malika_Sklad"><b>💻 Repository</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
+#### 🏨 [HotelOS — Enterprise Hospitality Platform](https://github.com/SUNNATILLACODER/Hotel)
+> **Technologies:** `TypeScript` • `Node.js` • `Docker Compose` • `Microservices` • `RESTful API`  
+> **Summary:** Enterprise-grade real-time hotel administration, reservation, and room management ecosystem engineered with modern microservice design and containerized deployment.
+
+#### ⚡ [NextGen CRM Engine](https://github.com/SUNNATILLACODER/CRM)
+> **Technologies:** `FastAPI` • `PostgreSQL (asyncpg)` • `SQLAlchemy 2.0` • `Playwright` • `Docker`  
+> **Summary:** High-throughput asynchronous CRM with automated headless lead scraping pipelines (Playwright), non-blocking database pooling, and comprehensive SQLAdmin control panels.
+
+#### 🌐 [Official Engineering Portfolio](https://github.com/SUNNATILLACODER/Portfolio-job)
+> **Technologies:** `React 19` • `Three.js (3D WebGL)` • `Vite` • `Tailwind CSS` • `i18n` • `SEO`  
+> **Summary:** Production web engineering portfolio featuring real-time 3D floating cyber city rendering, interactive modal dialogs, responsive mobile design, and multi-language routing.  
+> 👉 **[Explore Live Demo ↗](https://portfolio-job-flax.vercel.app)**
+
+#### ⛩️ [Japan Web Platform API](https://github.com/SUNNATILLACODER/Japan-Site-Backend)
+> **Technologies:** `Django 5` • `Django REST Framework` • `Swagger OpenAPI` • `Aiogram 3` • `MySQL`  
+> **Summary:** Scalable cultural and educational web service featuring multi-language i18n database models, interactive Swagger documentation, and integrated Aiogram 3 Telegram notifications.
+
+#### 🧮 [Abacus School Automation Bot](https://github.com/SUNNATILLACODER/Abacus_school_bot)
+> **Technologies:** `Python` • `Aiogram` • `python-docx` • `unoconv PDF Engine` • `FSM`  
+> **Summary:** Comprehensive educational center management Telegram bot with on-the-fly student certificate compilation and automated dynamic document generation.
+
+#### 📦 [Malika Sklad Inventory System](https://github.com/SUNNATILLACODER/Malika_Sklad)
+> **Technologies:** `Python` • `Django` • `Aiogram` • `PostgreSQL` • `Real-time Tracking`  
+> **Summary:** Warehouse management solution bridging web administrative controls with on-the-ground mobile Telegram operations for instant stock logging and low-inventory alerts.
 
 ---
 
 ### 📊 Contribution Dynamics & Metrics
 
 <div align="center">
-  <!-- Dynamic Activity Waveform Graph with Visible Border -->
+  <!-- Dynamic Contribution Waveform Graph with Electric Blue Border -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUNNATILLACODER&theme=tokyo-night&hide_border=false&border=1f6feb&area=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" width="100%" alt="Contribution Graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- GitHub Streak Card with Visible Border -->
+  <!-- GitHub Streak Card with Electric Blue Border -->
   <img src="https://streak-stats.demolab.com/?user=SUNNATILLACODER&theme=tokyonight&hide_border=false&border=1f6feb&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=1f6feb&currStreakNum=58a6ff" height="175" alt="Streak Stats" />
 </div>
 
 ---
 
-### 📬 Connect With Me
-
-<p align="center">
-  <a href="https://portfolio-job-flax.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00F5A0?style=flat-square&logo=vercel&logoColor=black" alt="Portfolio"/></a>
-  &nbsp;
-  <a href="https://t.me/war1pov_developer" target="_blank"><img src="https://img.shields.io/badge/Telegram-Connect-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/sunnatilla-sharipov-aa070a3b9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="mailto:sunnatillasharipov6@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+<div align="center">
+  <sub>⭐ <b>Sunnatilla Sharipov</b> — Crafting resilient architectures and delightful web experiences. Let's connect! ⭐</sub>
+</div>

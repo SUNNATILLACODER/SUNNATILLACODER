@@ -1,25 +1,24 @@
 <div align="center">
 
-  <!-- Neo-Cyberpunk Obsidian to Emerald & Cyan Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080a0a,40:0d2538,80:0284c7,100:00f5a0&height=220&section=header&text=Sunnatilla%20Sharipov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20%2F%20Frontend%20Software%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
+  <!-- Cinematic Grand Waving Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080a0a,40:0d2538,80:0284c7,100:00f5a0&height=280&section=header&text=Sunnatilla%20Sharipov&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20%2F%20Frontend%20Software%20Engineer&descAlignY=62&descAlign=50" width="100%"/>
 
-  <!-- Action Badges -->
-  <!-- Clean Unified Action Badges (No Nicknames) -->
+  <!-- Large Prominent Action Buttons (For-The-Badge Style) -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=SUNNATILLACODER&label=Profile%20Views&color=00f5a0&style=flat-square" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=SUNNATILLACODER&label=Profile%20Views&color=00f5a0&style=for-the-badge" alt="Profile Views"/>
     &nbsp;
-    <a href="https://portfolio-job-flax.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00F5A0?style=flat-square&logo=vercel&logoColor=black" alt="Portfolio"/></a>
+    <a href="https://portfolio-job-flax.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00F5A0?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
     &nbsp;
-    <a href="https://t.me/war1pov_developer" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
+    <a href="https://t.me/war1pov_developer" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
     &nbsp;
-    <a href="https://www.linkedin.com/in/sunnatilla-sharipov-aa070a3b9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/sunnatilla-sharipov-aa070a3b9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     &nbsp;
-    <a href="mailto:sunnatillasharipov6@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="mailto:sunnatillasharipov6@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 
-  <!-- Animated Neon Typing SVG -->
+  <!-- Large Animated Neon Typing SVG -->
   <a href="https://portfolio-job-flax.vercel.app" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5A0&center=true&vCenter=true&width=650&lines=Fullstack+%2F+Frontend+Software+Engineer;React+19+%2F+TypeScript+%2F+Next.js+%2F+Tailwind+CSS;Python+%2F+FastAPI+%2F+Django+%2F+PostgreSQL+%2F+Docker;Architecting+High-Throughput+APIs+%26+3D+WebGL+Experiences;Available+for+Fullstack+%26+Frontend+Opportunities!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5A0&center=true&vCenter=true&width=750&lines=Fullstack+%2F+Frontend+Software+Engineer;React+19+%2F+TypeScript+%2F+Next.js+%2F+Tailwind+CSS;Python+%2F+FastAPI+%2F+Django+%2F+PostgreSQL+%2F+Docker;Architecting+High-Throughput+APIs+%26+3D+WebGL+Experiences;Available+for+Fullstack+%26+Frontend+Opportunities!" alt="Typing SVG" />
   </a>
 
 </div>
@@ -49,7 +48,7 @@ sunnatilla@cyber-node:~$ cat /etc/system_profile.json
 <div align="center">
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs,vite,python,fastapi,django,postgres,mysql,docker,git,github,postman,linux&theme=dark" alt="SkillIcons Dock" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs,vite,python,fastapi,django,postgres,mysql,docker,git,github,postman,linux&perline=9&theme=dark" alt="SkillIcons Dock" />
     </a>
   </p>
 </div>
@@ -65,12 +64,51 @@ sunnatilla@cyber-node:~$ cat /etc/system_profile.json
 
 ### 🌟 Featured Projects
 
-- 🏨 **[HotelOS — Hotel Management System](https://github.com/SUNNATILLACODER/Hotel)**
-- ⚡ **[CRM Engine](https://github.com/SUNNATILLACODER/CRM)**
-- 🌐 **[Official Portfolio & 3D Cyber City](https://github.com/SUNNATILLACODER/Portfolio-job)** &nbsp;•&nbsp; [Live Demo ↗](https://portfolio-job-flax.vercel.app)
-- ⛩️ **[Japan Web Platform API](https://github.com/SUNNATILLACODER/Japan-Site-Backend)**
-- 🧮 **[Abacus School Automation Bot](https://github.com/SUNNATILLACODER/Abacus_school_bot)**
-- 📦 **[Malika Sklad Inventory System](https://github.com/SUNNATILLACODER/Malika_Sklad)**
+### 🏨 [HotelOS — Enterprise Hospitality Platform](https://github.com/SUNNATILLACODER/Hotel)
+[![GitHub Repository](https://img.shields.io/badge/GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SUNNATILLACODER/Hotel)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/SUNNATILLACODER/Hotel)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/SUNNATILLACODER/Hotel)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/SUNNATILLACODER/Hotel)
+
+<br/>
+
+### ⚡ [NextGen CRM Engine](https://github.com/SUNNATILLACODER/CRM)
+[![GitHub Repository](https://img.shields.io/badge/GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SUNNATILLACODER/CRM)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/SUNNATILLACODER/CRM)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/SUNNATILLACODER/CRM)
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/SUNNATILLACODER/CRM)
+
+<br/>
+
+### 🌐 [3D Interactive Portfolio & Cyber Node](https://github.com/SUNNATILLACODER/Portfolio-job)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00F5A0?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-job-flax.vercel.app)
+[![GitHub Repository](https://img.shields.io/badge/GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SUNNATILLACODER/Portfolio-job)
+[![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/SUNNATILLACODER/Portfolio-job)
+[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://github.com/SUNNATILLACODER/Portfolio-job)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://github.com/SUNNATILLACODER/Portfolio-job)
+
+<br/>
+
+### ⛩️ [Japan Web Platform API](https://github.com/SUNNATILLACODER/Japan-Site-Backend)
+[![GitHub Repository](https://img.shields.io/badge/GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SUNNATILLACODER/Japan-Site-Backend)
+[![Django 5](https://img.shields.io/badge/Django_5-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/SUNNATILLACODER/Japan-Site-Backend)
+[![Aiogram 3](https://img.shields.io/badge/Aiogram_3-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/SUNNATILLACODER/Japan-Site-Backend)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/SUNNATILLACODER/Japan-Site-Backend)
+
+<br/>
+
+### 🧮 [Abacus School Automation Bot](https://github.com/SUNNATILLACODER/Abacus_school_bot)
+[![GitHub Repository](https://img.shields.io/badge/GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SUNNATILLACODER/Abacus_school_bot)
+[![Python 3.11](https://img.shields.io/badge/Python_3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/SUNNATILLACODER/Abacus_school_bot)
+[![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/SUNNATILLACODER/Abacus_school_bot)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/SUNNATILLACODER/Abacus_school_bot)
+
+<br/>
+
+### 📦 [Malika Sklad Inventory System](https://github.com/SUNNATILLACODER/Malika_Sklad)
+[![GitHub Repository](https://img.shields.io/badge/GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SUNNATILLACODER/Malika_Sklad)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/SUNNATILLACODER/Malika_Sklad)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/SUNNATILLACODER/Malika_Sklad)
 
 ---
 
@@ -85,7 +123,7 @@ sunnatilla@cyber-node:~$ cat /etc/system_profile.json
 
 <div align="center">
   <!-- GitHub Streak Card with Neon Emerald Border -->
-  <img src="https://streak-stats.demolab.com/?user=SUNNATILLACODER&theme=tokyonight&hide_border=false&border=00f5a0&background=080a0a&stroke=00f5a0&ring=00f5a0&fire=00f5a0&currStreakNum=00f5a0" height="175" alt="GitHub Streak Tracker" />
+  <img src="https://streak-stats.demolab.com/?user=SUNNATILLACODER&theme=tokyonight&hide_border=false&border=00f5a0&background=080a0a&stroke=00f5a0&ring=00f5a0&fire=00f5a0&currStreakNum=00f5a0" height="195" alt="GitHub Streak Tracker" />
 </div>
 
 ---

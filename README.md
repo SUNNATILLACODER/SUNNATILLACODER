@@ -21,6 +21,15 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5A0&center=true&vCenter=true&width=750&lines=Fullstack+%2F+Frontend+Software+Engineer;React+19+%E2%80%A2+TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Tailwind;Python+%E2%80%A2+FastAPI+%E2%80%A2+Django+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker;Crafting+High-Performance+Web+%26+3D+Experiences;Open+to+Engineering+Opportunities!" alt="Typing SVG" />
   </a>
 
+  <!-- Executive Cyber Status HUD Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/FOCUS-FULLSTACK%20%2F%20FRONTEND-00F5A0?style=for-the-badge&logo=target&logoColor=black" alt="Focus"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00F5A0?style=for-the-badge&logo=statuspage&logoColor=black" alt="Status"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/EDUCATION-PDP%20UNIVERSITY-00F5A0?style=for-the-badge&logo=academia&logoColor=black" alt="Education"/>
+  </p>
+
 </div>
 
 <br/>
@@ -62,10 +71,19 @@ sunnatilla@cyber-node:~$ cat /etc/system_profile.json
 
 <br/>
 
-<h2 align="center">🚀 Featured Engineering Projects</h2>
+<h2 align="center">🚀 Flagship Engineering Projects</h2>
+
+### 🌐 [3D Interactive Portfolio & Cyber Node](https://github.com/SUNNATILLACODER/Portfolio-job)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00F5A0?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-job-flax.vercel.app)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SUNNATILLACODER/Portfolio-job)
+[![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/SUNNATILLACODER/Portfolio-job)
+[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://github.com/SUNNATILLACODER/Portfolio-job)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://github.com/SUNNATILLACODER/Portfolio-job)
+
+<br/>
 
 ### 🏨 [HotelOS — Enterprise Hospitality Platform](https://github.com/SUNNATILLACODER/Hotel)
-[![GitHub Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SUNNATILLACODER/Hotel)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SUNNATILLACODER/Hotel)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/SUNNATILLACODER/Hotel)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/SUNNATILLACODER/Hotel)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/SUNNATILLACODER/Hotel)
@@ -73,42 +91,18 @@ sunnatilla@cyber-node:~$ cat /etc/system_profile.json
 <br/>
 
 ### ⚡ [NextGen CRM Engine](https://github.com/SUNNATILLACODER/CRM)
-[![GitHub Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SUNNATILLACODER/CRM)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SUNNATILLACODER/CRM)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/SUNNATILLACODER/CRM)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/SUNNATILLACODER/CRM)
 [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/SUNNATILLACODER/CRM)
 
 <br/>
 
-### 🌐 [3D Interactive Portfolio & Cyber Node](https://github.com/SUNNATILLACODER/Portfolio-job)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00F5A0?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-job-flax.vercel.app)
-[![GitHub Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SUNNATILLACODER/Portfolio-job)
-[![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/SUNNATILLACODER/Portfolio-job)
-[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://github.com/SUNNATILLACODER/Portfolio-job)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://github.com/SUNNATILLACODER/Portfolio-job)
-
-<br/>
-
 ### ⛩️ [Japan Web Platform API](https://github.com/SUNNATILLACODER/Japan-Site-Backend)
-[![GitHub Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SUNNATILLACODER/Japan-Site-Backend)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SUNNATILLACODER/Japan-Site-Backend)
 [![Django 5](https://img.shields.io/badge/Django_5-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/SUNNATILLACODER/Japan-Site-Backend)
 [![Aiogram 3](https://img.shields.io/badge/Aiogram_3-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/SUNNATILLACODER/Japan-Site-Backend)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/SUNNATILLACODER/Japan-Site-Backend)
-
-<br/>
-
-### 🧮 [Abacus School Automation Bot](https://github.com/SUNNATILLACODER/Abacus_school_bot)
-[![GitHub Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SUNNATILLACODER/Abacus_school_bot)
-[![Python 3.11](https://img.shields.io/badge/Python_3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/SUNNATILLACODER/Abacus_school_bot)
-[![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/SUNNATILLACODER/Abacus_school_bot)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/SUNNATILLACODER/Abacus_school_bot)
-
-<br/>
-
-### 📦 [Malika Sklad Inventory System](https://github.com/SUNNATILLACODER/Malika_Sklad)
-[![GitHub Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SUNNATILLACODER/Malika_Sklad)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/SUNNATILLACODER/Malika_Sklad)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/SUNNATILLACODER/Malika_Sklad)
 
 <br/>
 

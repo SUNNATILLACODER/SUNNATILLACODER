@@ -4,16 +4,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080a0a,40:0d2538,80:0284c7,100:00f5a0&height=220&section=header&text=Sunnatilla%20Sharipov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20%2F%20Frontend%20Software%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
 
   <!-- Action Badges -->
+  <!-- Clean Unified Action Badges (No Nicknames) -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=SUNNATILLACODER&label=Profile%20Views&color=00f5a0&style=flat-square" alt="Profile Views"/>
     &nbsp;
-    <a href="https://portfolio-job-flax.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Portfolio-00F5A0?style=flat-square&logo=vercel&logoColor=black" alt="Portfolio"/></a>
+    <a href="https://portfolio-job-flax.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00F5A0?style=flat-square&logo=vercel&logoColor=black" alt="Portfolio"/></a>
     &nbsp;
-    <a href="https://t.me/war1pov_developer" target="_blank"><img src="https://img.shields.io/badge/Telegram-@war1pov__developer-00D2FF?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
+    <a href="https://t.me/war1pov_developer" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
     &nbsp;
-    <a href="https://www.linkedin.com/in/sunnatilla-sharipov-aa070a3b9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sunnatilla_Sharipov-1f6feb?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/sunnatilla-sharipov-aa070a3b9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     &nbsp;
-    <a href="mailto:sunnatillasharipov6@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="mailto:sunnatillasharipov6@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 
   <!-- Animated Neon Typing SVG -->
